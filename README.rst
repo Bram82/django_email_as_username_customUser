@@ -19,5 +19,5 @@ Quick start
 3. Add this line in you settings.py file ``AUTH_USER_MODEL = 'customUser.User'``
 to make set the customUser usermodel as the standard.
 
-4. Run ``python manage.py migrate`` to create the polls models.
+4. Run ``python manage.py migrate`` the models in the database.
 
